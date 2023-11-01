@@ -18,7 +18,7 @@ Without enabling the VA chatbot to respond to disability rating inquiries, we ar
 
 > What evidence do we have of the problem?
 
-Transcript analysis suggest that the VA Chatbot is being asked to handle an increasing number of ratings inquiries. The most common utterance is some form of the question "What is my rating?" 
+Transcript analysis suggest that the VA Chatbot is being asked to handle an increasing number of ratings inquiries. The most common utterance is some form of the question "What is my rating?" followed by process questions (i.e. how long until...?) and general rating FAQs. 
 
 > Why do you think the problem is occurring?
 
