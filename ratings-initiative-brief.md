@@ -62,9 +62,10 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup> *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI, baseline, target, link to data source: GA, Domo
-* **Task completion:** Percentage of users that successefuly view disability ratings in-chat
+* **Task completion:** Percentage of users that successefuly view disability ratings
 * **Usage:** How many users - unique and returning - are coming to the chatbot to view disability ratings?
 * **Task completion time:** How much time is spent in the ratings user flow?
+* **Flow Interruptions:** How many times is the intended ratings flow interrupted by a new utterance? 
 
 ---
 
