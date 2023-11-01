@@ -14,7 +14,7 @@ With the ability to return disability ratings, the VA Chatbot is better able to 
 ## Problem 
 > What is the problem and who is affected? 
 
-Without enabling the VA chatbot to respond to disability rating inquiries, we are leaving veterans without answers to one of the most pertinent aspects of the claims process. Veterans look to track their ratings to maintain a complete picture of their disability profile. The chatbot should have the same capabilities in this area as other tools on the VA platform. 
+Without enabling the VA chatbot to respond to disability rating inquiries, we are leaving veterans without answers to one of the most pertinent aspects of the claims process. Veterans look to track their ratings to maintain a complete picture of their disability profile. The chatbot should have the same capabilities in this area as other tools on the VA platform. The chatbot responding to some claims-related topics and not others ultimately harms user's confidence in the bot over the long term.  
 
 > What evidence do we have of the problem?
 
@@ -26,7 +26,7 @@ Veterans have multiple avenues to track ratings and other aspects of the claims 
 
 > How does this initiative help further OCTO-DE's mission and goals?
 
-Enabling ratings capabilities on the VA chatbot directly furthers OCTO-DE's mission - delivering high quality digital experiences to veterans and their families - and strategic goals, particularly that 1) logged-in users can easily track applications, claims and appeals online and 2) Veterans and their families can trust the security, accuracy and relevance of VA digital services. The chatbot responding to some claims-related topics and not others ultimately harms user's confidence in the bot over the long term.  
+Enabling ratings capabilities on the VA chatbot directly furthers OCTO-DE's mission - delivering high quality digital experiences to veterans and their families - and strategic goals, particularly that 1) logged-in users can easily track applications, claims and appeals online and 2) Veterans and their families can trust the security, accuracy and relevance of VA digital services. 
 
 <!--
 ## Desired User Outcomes
