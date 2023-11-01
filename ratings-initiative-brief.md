@@ -113,10 +113,10 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 > *What have you explicitly decided to **not** include and why?*
 - Not including associated decision letter next to ratings - future iteration, requires more discovery. 
 
-
+<!--
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
+-->
 
 --- 
 
