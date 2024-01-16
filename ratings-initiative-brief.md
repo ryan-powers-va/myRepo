@@ -93,22 +93,18 @@ Provide VA Chatbot users with personalized experience in regards to their presri
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
-- **Organizational Viability Risks/Constraints**: Will there be a positive organizational impact?:
+- **Organizational Viability Risks/Constraints**:
+- Will there be a positive organizational impact?:
   - Yes, usability testing indicates that Veterans are interested in expansion of Chatbot features. 
   - Yes, examination of chatbot transcripts indicates Veterans are looking for ratings information. 
   - Yes, VA Chatbot is already consistent with other channels at the VA.
 
 ### What're you building
 > *What's in scope for you to build with this initiative? (Describe key features/flows) 
-#### MVP 1
+#### MVP
 - Authentication of veteran
 - Viewing combined and individual disability ratings (associated condition, service connected, effective date)
-- Response to user if no disability rating associated with profile 
-
-#### MVP 2
-- Authentication of veteran
-- Viewing combined and individual disability ratings (associated condition, service connected, effective date)
-- Response to user with no disability rating, route to claims status (or other similarly relevant feature - pending usability testing outcome)
+- Response to user with no disability rating, route to claims status
 
 > *What have you explicitly decided to **not** include and why?*
 - Not including associated decision letter next to ratings - future iteration, requires more discovery. 
@@ -134,8 +130,8 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 -->
 
 #### Initiative Launch Dates
-- *Target Launch Date:* January 2024
-  - Ratings MVP
+- *Target Launch Date:* March 2024
+  - Ratings launch with claims
 
 ---
    
